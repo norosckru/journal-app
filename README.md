@@ -1,12 +1,13 @@
+# Aplicación de Notas con ReactJS y Firebase
 
-#Aplicación de Notas con ReactJS y Firebase
+## https://norbertok.com/jobs
 
-npm i
+* npm i
 
-Deben agregar su configuracion de Firebase en:
+### Deben agregar su configuracion de Firebase en:
 ./firebase/firabe-config.js
 
-Cambiar API de Cloudinary:
+### Cambiar API de Cloudinary:
 ./helpers/fileUpload.js
 
-npm start
+* npm start
